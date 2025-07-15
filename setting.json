@@ -1,0 +1,104 @@
+{
+    // Установить собственный шрифт и его размеры
+    "editor.fontFamily": "JetBrainsMonoNL Nerd Font",
+
+
+
+    // Тема иконок
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.indent": 14,
+
+    // Установить тему по дефолту
+    "workbench.colorTheme": "One Dark Pro Darker",
+
+    // Убрать статус бар снизу
+    "workbench.statusBar.visible": false,
+
+    // Убираем виджет справа для скролла
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.matchBrackets": "never",
+    "editor.occurrencesHighlight": "off",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.stickyScroll.enabled": false,
+
+    "workbench.colorCustomizations": {
+        "editorCursor.background": "#000000",
+        "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+        "editorOverviewRuler.selectionHighlightForeground": "#0000",
+        "editorOverviewRuler.rangeHighlightForeground": "#0000",
+        "editorOverviewRuler.wordHighlightForeground": "#0000",
+        "editorOverviewRuler.bracketMatchForeground": "#0000",
+        "editorOverviewRuler.findMatchForeground": "#0000",
+        "editorOverviewRuler.modifiedForeground": "#0000",
+        "editorOverviewRuler.deletedForeground": "#0000",
+        "editorOverviewRuler.warningForeground": "#0000",
+        "editorOverviewRuler.addedForeground": "#0000",
+        "editorOverviewRuler.errorForeground": "#0000",
+        "editorOverviewRuler.infoForeground": "#0000",
+        "editorOverviewRuler.border": "#0000",
+    },
+
+    // Отключаем панель управления окном
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "window.menuBarVisibility": "toggle",
+
+    // Отключаем лишние декорации и метки
+    "explorer.decorations.badges": false,
+    "git.decorations.enabled": false,
+    "scm.diffDecorations": "none",
+
+    // Установить длину одного tab
+    "editor.tabSize": 4,
+
+    // Всегда использовать те отступы, которые заданы вручную (tabSize, insertSpaces и т.п.), а не угадывать.
+    "editor.detectIndentation": false,
+
+    // Настройка плагина todo
+    "todohighlight.isEnable": true,
+
+    // Настройка курсора
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.cursorBlinking": "solid",
+
+    // Отключаем окно с помощью для новичков
+    "workbench.tips.enabled": false,
+
+    // Отключить лампочку в коде
+    "editor.lightbulb.enabled": "off",
+
+    // Автосохранение файлов через короткую паузу после редактирования
+    "files.autoSave": "afterDelay",
+    "workbench.activityBar.location": "hidden",
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "terminal.integrated.mouseWheelZoom": true,
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "bearded-icons",
+    "git.postCommitCommand": "push",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "JetBrainsMonoNL Nerd Font",
+    "workbench.sideBar.location": "right",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+
+    // Отключает вертикальные линии отступов в редакторе
+    "editor.guides.indentation": false,
+
+    /// Отключает подсветку активной строки
+    "editor.renderLineHighlight": "none",
+
+
+
+
+
+
+
+
+}
